@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.suncoupon",
+      "sha256_cert_fingerprints": [
+        "14:1D:19:0A:5C:DB:27:D9:96:65:EE:A3:29:76:9C:E8:97:9C:17:25:57:FB:EB:86:D8:EC:EF:5E:47:1A:EB:F1"
+      ]
+    }
+  }
+]
