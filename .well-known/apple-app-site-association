@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "L2B35U7NXA.com.waydc.SunCoupon" ],
+             "components": [
+				{"/": "/*"}
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "L2B35U7NXA.com.waydc.SunCoupon" ]
+   },
+}
